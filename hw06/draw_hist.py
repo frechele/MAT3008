@@ -6,7 +6,7 @@ import numpy as np
 
 if __name__ == '__main__':
   if len(sys.argv) != 3:
-    print('usage: python3 %s <output file> <bins>'.format(sys.argv[0]))
+    print('usage: python3 {} <output file> <bins>'.format(sys.argv[0]))
     sys.exit(1)
 
   output = sys.argv[1]
