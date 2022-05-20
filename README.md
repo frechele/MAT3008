@@ -6,7 +6,7 @@ Some codes are from Numerical Recipes (NR).
 ## [Homework01](https://github.com/frechele/MAT3008/tree/main/hw01)
 - Obtain the machine accuracy of f32 and f64 in two ways.
   - Method 1: Use the routine `machar` in NR.
-  - Method 2: Make `get_eps` code based on finding minimum n that satisfies 1+2^{-n} = 1
+  - Method 2: Make `get_eps` code based on finding minimum n that satisfies $1+2^{-n} = 1$
 
 ## [Homework02](https://github.com/frechele/MAT3008/tree/main/hw02)
 - Solutions of textbook exercise problem set.
